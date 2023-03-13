@@ -5,6 +5,6 @@ public class MyFourthClass {
         System.out.println("hiii");
         int a=12;
         int c=9;
-        int d=11;
+        int d=17;
     }
 }
